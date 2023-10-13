@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bio Data </title>
+</head>
+
+<body style="color: blue; background: rgb(119, 203, 206);">
+    <center>
+
+        <Table border="10" cellspacing="5">
+            <tr>
+                <th colspan="5" style="background: #f0c1c1;;"> Bio Data </th>
+            </tr>
+
+            <tr>
+                <th style="background: #e2c6c6;;">Name </th>
+                <td >Anand raj Bind </td>
+            </tr>
+            <tr>
+                <th style="background: #f0c1c1;;">Roll No. </th>
+                <td> 2158017</td>
+            </tr>
+            <tr>
+                <th style="background: #f0c1c1;;">Class</th>
+                <td>BCA III years </td>
+            </tr>
+            <tr>
+                <th style="background: #f0c1c1;;">Subject </th>
+                <td> Web Desigh</td>
+            </tr>
+            <tr>
+                <th style="background: #f0c1c1;;">Address</th>
+                <td> kafarpur patahana jaunpur </td>
+            </tr>
+
+        </Table>
+    </center>
+</body>
+
+</html>
