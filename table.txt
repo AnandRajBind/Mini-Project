@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My first website</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <table border="100" cellspacing="10">
+        <tr>
+            <th colspan="4">Time Table</th>
+        </tr>
+        <th>class</th>
+        <th>subject 1</th>
+        <th>subject 2</th>
+        <th>subject 3</th>
+        <!-- <tr>
+        <th rowspan="6"> Hours </th>
+    </tr> -->
+
+        <tr>
+            <td> BCA I</td>
+            <td>Visual basic</td>
+            <td>PC software </td>
+            <td>Electronics</td>
+
+        </tr>
+
+        <tr>
+            <td> BCA II</td>
+            <td>C++</td>
+            <td>DBMS </td>
+            <td>English</td>
+
+        </tr>
+
+        <tr>
+            <td> BCA III</td>
+            <td>JAVA</td>
+            <td>Multimedia </td>
+            <td>CSS</td>
+
+        </tr>
+
+    </table>
+
+    <a href="index.html">click here </a>
+
+</body>
+
+</html>
